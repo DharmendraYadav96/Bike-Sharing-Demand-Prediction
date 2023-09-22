@@ -1,6 +1,6 @@
 # Bike-Sharing-Demand-Prediction
 
-![bike_sharing](https://github.com/DharmendraYadav96/Bike-Sharing-Demand-Prediction/assets/134188892/e594be30-5f66-4d62-aede-0cea512429f5)
+<img width="521" alt="kj bike sharing" src="https://github.com/DharmendraYadav96/Bike-Sharing-Demand-Prediction/assets/134188892/c23e9d46-f99f-47c2-99e7-679c85857e94">
 
 ## Objective
 The objective of this project is to predict bike-sharing demand at each hour for the stable supply of rental bikes in a city based on historical data. By building a predictive model, we aim to help bike-sharing companies optimize their bike allocation and better meet customer demand, ultimately improving the efficiency and user experience of their services.
